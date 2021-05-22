@@ -8,6 +8,7 @@ I know [python](https://www.python.org/) as a bot developer in discord. And I al
 So currently I have the following socials :- 
 
 [Youtube](https://www.youtube.com/channel/UCG4TWc4j_eU4Rxpfb-WO_qg)
+
 [Discord](https://discord.com/users/840466325280391169)
 
 ## Projects 👨‍💻
