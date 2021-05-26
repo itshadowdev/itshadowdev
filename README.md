@@ -1,5 +1,5 @@
 # Welcome 👋
-So first lets give my introduction read quick. I am a font end developer and a discord bot developer.
+So first lets give my introduction really quick. I am a font end developer and a discord bot developer.
 
 ## Languages 👨‍💻
 I know [python](https://www.python.org/) as a bot developer in discord. And I also know html, Css, JavaScript as a web developer! 
