@@ -1,30 +1,20 @@
-# ☉ **Shadow_Dev** ☉
-  I am shadow_dev (Online). I am a **student** & **developer**. 
+## Who am I
+I am Shadow_dev (Online)! A semi-adult programmer who started with html-css-javascript a year ago. Then shift himself to python by making discord bots. Currently have many plans to do but proceedings every one by simply. My mood controls me! Anytime I start a web project and then suddenly I can switch to a python project. Just brushing up everything I know and starting from the beginning.
 
+## What libraries I use
+Most of my python code is related to discord bot. So I use Rapptz's [Discord.py](https://github.com/Rapptz/discord.py) and chill. For JavaScript I use script.js which is the most easy one. Mostly I don't know JavaScript much. Have a plan in future to learn it.
 
-![shadows profile pic](https://avatars.githubusercontent.com/u/83858346?s=400&u=16355626fb55ce2ac3b2a6028c823e7f9243be29&v=4) 
+## I want to learn
+I want to learn many things but time is my main enemy. Still I have plan to learn the following :D 
 
+ 1.[<img alt="MySQL" src="https://cdn.discordapp.com/emojis/854697305885245441.png?v=1" width="60px">](https://www.mysql.com/)
  
+ 2.[<img alt="GO.." src="https://cdn.discordapp.com/emojis/813913744002121838.png?v=1" width="60px">](https://golang.org/)
  
- ### Skills
- + ![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/20px-Python-logo-notext.svg.png) **Python**
- + ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/25px-HTML5_logo_and_wordmark.svg.png) **HyperText Markup Language**
- + ![css](https://cdn.discordapp.com/attachments/845274562076999692/848380072154628117/pngegg_3.png) **Cascading Style Sheets**
+ 3.[<img alt="Ruby" src="https://cdn.discordapp.com/emojis/854697304107909130.png?v=1" width="40px">](https://www.ruby-lang.org/en/)
  
- ### Currently Learning
- + ![discord.py](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/20px-Discord-Logo-Color.svg.png) **Discord.py**
-
-# Github Status
-![git-status](https://github-readme-stats.vercel.app/api?username=itshadowdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-# Top Languages
-![git-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=itshadowdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-# Social
-+ ![yotube](https://www.youtube.com/s/desktop/1f277c2a/img/favicon.ico) [**Youtube**](https://www.youtube.com/channel/UCG4TWc4j_eU4Rxpfb-WO_qg)
-+ ![discord](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/20px-Discord-Logo-Color.svg.png) [**Discord**](https://discord.com/users/840466325280391169)
+ 4.[<img alt="PHP" src="https://cdn.discordapp.com/emojis/854697309455122432.png?v=1" width="60px">](https://www.php.net/)
  
-
-
-
-
+## Improving languages
+As this my passion I would really like to improve what I know. "Practice makes a man perfect" 
+What I want to imrpove everything I know!
